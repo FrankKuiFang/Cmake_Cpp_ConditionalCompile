@@ -1,3 +1,0 @@
-C:/Users/fanggang/Desktop/MyTempCode/1217/build/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/fanggang/Desktop/MyTempCode/1217/build/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/fanggang/Desktop/MyTempCode/1217/build/build/solution/CMakeFiles/Solutions.dir
