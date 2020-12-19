@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\fanggang\desktop\mytempcode\1217\source\Base.hpp(24): warning C4099: “SolutionInfo”: 类型名称以前使用“class”现在使用的是“struct”
+  c:\users\fanggang\desktop\mytempcode\1217\source\Base.hpp(23): note: 参见“SolutionInfo”的声明
+  Solutions.vcxproj -> C:\Users\fanggang\Desktop\MyTempCode\1217\build\build\bin\Debug\Solutions.exe

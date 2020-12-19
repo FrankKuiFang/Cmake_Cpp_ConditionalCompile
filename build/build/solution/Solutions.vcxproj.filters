@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\fanggang\Desktop\MyTempCode\1217\source\Factory\SolutionFactory.cpp">
+      <Filter>Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\fanggang\Desktop\MyTempCode\1217\source\main.cpp" />
+    <ClCompile Include="C:\Users\fanggang\Desktop\MyTempCode\1217\source\China\ChinaSolution.cpp">
+      <Filter>China</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\fanggang\Desktop\MyTempCode\1217\source\Euro\EuroSolution.cpp">
+      <Filter>Euro</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\fanggang\Desktop\MyTempCode\1217\source\Japan\JapanSolution.cpp">
+      <Filter>Japan</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\fanggang\Desktop\MyTempCode\1217\source\Base.hpp" />
+    <ClInclude Include="C:\Users\fanggang\Desktop\MyTempCode\1217\source\Factory\SolutionFactory.hpp">
+      <Filter>Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\fanggang\Desktop\MyTempCode\1217\source\China\ChinaSolution.hpp">
+      <Filter>China</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\fanggang\Desktop\MyTempCode\1217\source\Euro\EuroSolution.hpp">
+      <Filter>Euro</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\fanggang\Desktop\MyTempCode\1217\source\Japan\JapanSolution.hpp">
+      <Filter>Japan</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fanggang\Desktop\MyTempCode\1217\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="China">
+      <UniqueIdentifier>{8C2662ED-3E7A-3D25-828C-FB639A6A52E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Euro">
+      <UniqueIdentifier>{D7AB80E2-652A-3DA6-8532-D836C8DF917B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Factory">
+      <UniqueIdentifier>{E0AFDF83-9AC3-3718-AD90-B7E1CDD674EA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Japan">
+      <UniqueIdentifier>{0F520F11-A4E6-397F-B8B0-DA5D0EF23311}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
